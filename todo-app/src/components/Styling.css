@@ -1,0 +1,45 @@
+#styling{
+    width: 500px;
+    padding: 6px;
+    border-radius: 10px;
+    margin: auto;
+    background-color: lightpink;
+}
+
+input{
+    padding: 10px;
+    margin-right: 10px;
+    text-align: center;
+    width: 40%;
+}
+
+#btn {
+    padding: 6px;
+    margin-left: 5px;
+    width: 20%;
+  }
+
+button {
+    padding: 6px;
+    margin-left: 5px;
+    width: 25%;
+  }
+
+ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    width: 400px;
+    padding: 10px;
+    margin: 10px auto;
+    background: #f4f4f4;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  form {
+    margin: 20px 0;
+  }
